@@ -1,0 +1,1589 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lmSy8LMx6Iq6_MNs8I5YAc1OczY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6Jypb_AAr0iGbW2lmYMRhO1XnS8",
+            "id": "JqAInEOKMEA",
+            "snippet": {
+                "publishedAt": "2022-06-09T08:00:18Z",
+                "channelId": "UChbE5OZQ6dRHECsX0tEPEZQ",
+                "title": "[신병] 전우",
+                "description": "스튜디오 장삐쭈\n애니메이션 : 포포, 원동우, 강선영, 박정인\n기획 및 대본 : 장삐쭈, 허혜원, 지정민, 류호찬, 최민아\n\n성우\n권태웅, 병장 조교 : 강찬",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JqAInEOKMEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JqAInEOKMEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JqAInEOKMEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JqAInEOKMEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JqAInEOKMEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "장삐쭈",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[신병] 전우",
+                    "description": "스튜디오 장삐쭈\n애니메이션 : 포포, 원동우, 강선영, 박정인\n기획 및 대본 : 장삐쭈, 허혜원, 지정민, 류호찬, 최민아\n\n성우\n권태웅, 병장 조교 : 강찬"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1566779",
+                "likeCount": "31412",
+                "favoriteCount": "0",
+                "commentCount": "4445"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pAxlffpw8u7WMXLFZA_9cbFwbh4",
+            "id": "B96eNDTpo2E",
+            "snippet": {
+                "publishedAt": "2022-06-09T08:48:01Z",
+                "channelId": "UCUyfkq9e9ZfPzxOW5WQ9rzQ",
+                "title": "(ENG)송강 호되게 혼내기 vs 송강호 되게 혼내기. 강동원 이지은 이주영의 선택은? 뭐? 이것 참 눈물 콧물 쏙 빼는구먼 with 고레에다 히로카즈 / [문명특급 EP.251]",
+                "description": "칸에서 만난 브로커 배우들과 고 감독님\n시간은 정해져 있고 인터뷰는 다 해야 되고 바쁘다 바빠 인터뷰 사회 \n하지만 그 누구보다 훌륭하게 인터뷰를 소화하고 가셨습니다(박수)\n\n#브로커 #칸영화제 #송강호 #강동원 #이지은 #이주영 #고레에다히로카즈\n\n기획/ 하현종  진행/ 이은재  구성/ 이은재 이규희  촬영/ 조문찬 다올미디어  동시녹음/ 소리를 그리다   브랜드디자인/ 김하경  CG/ 김한솔  현지코디/ 온수지  담당인턴/ 김나현 이유정 이준섭  행정/ 박미림  마케팅/ 김유진  출고/ 김수연  자막/ 홍은설  조연출 ·편집/ 오한주 김혜민  연출/ 홍민지  제작지원/ CJ ENM  제작/ SBS디지털뉴스랩 크리에이티브 사업부문",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B96eNDTpo2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B96eNDTpo2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B96eNDTpo2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "문명특급 - MMTG",
+                "tags": [
+                    "#문특 #아이유 #재재 #JAEJAE #mmtg"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "(ENG)송강 호되게 혼내기 vs 송강호 되게 혼내기. 강동원 이지은 이주영의 선택은? 뭐? 이것 참 눈물 콧물 쏙 빼는구먼 with 고레에다 히로카즈 / [문명특급 EP.251]",
+                    "description": "칸에서 만난 브로커 배우들과 고 감독님\n시간은 정해져 있고 인터뷰는 다 해야 되고 바쁘다 바빠 인터뷰 사회 \n하지만 그 누구보다 훌륭하게 인터뷰를 소화하고 가셨습니다(박수)\n\n#브로커 #칸영화제 #송강호 #강동원 #이지은 #이주영 #고레에다히로카즈\n\n기획/ 하현종  진행/ 이은재  구성/ 이은재 이규희  촬영/ 조문찬 다올미디어  동시녹음/ 소리를 그리다   브랜드디자인/ 김하경  CG/ 김한솔  현지코디/ 온수지  담당인턴/ 김나현 이유정 이준섭  행정/ 박미림  마케팅/ 김유진  출고/ 김수연  자막/ 홍은설  조연출 ·편집/ 오한주 김혜민  연출/ 홍민지  제작지원/ CJ ENM  제작/ SBS디지털뉴스랩 크리에이티브 사업부문"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "745972",
+                "likeCount": "25308",
+                "favoriteCount": "0",
+                "commentCount": "1989"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "elYGTLwOzxE_vNPJbwclASqr89U",
+            "id": "_GQOqbERb4o",
+            "snippet": {
+                "publishedAt": "2022-06-09T08:00:23Z",
+                "channelId": "UCYyLIlOJyqkAFKlVjzX5img",
+                "title": "[추모 특집 최불암의 이야기 숲 어울림] 영원한 현역 송해",
+                "description": "송해 선생님 추모특집 _ 최불암의 이야기 숲 어울림 MBN 20190912 방송\n\n\"영원한 현역 송해\" \n\n전설이여,영원하라\n\n삼가 고인의 명복을 빕니다.\n\n#송해 #송해선생님 #별세 #큰별 #현역 #최불암 #추모 #MBN\n\n☞ MBN Entertainment 구독하기 : https://www.youtube.com/c/MBN_Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_GQOqbERb4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_GQOqbERb4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_GQOqbERb4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_GQOqbERb4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_GQOqbERb4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MBN Entertainment",
+                "tags": [
+                    "송해",
+                    "별세",
+                    "추모",
+                    "추모특집",
+                    "최불암",
+                    "엄영수",
+                    "전설",
+                    "구봉서",
+                    "최불암의이야기숲어울림",
+                    "MBN추모특집",
+                    "추모영상",
+                    "MBN"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[추모 특집 최불암의 이야기 숲 어울림] 영원한 현역 송해",
+                    "description": "송해 선생님 추모특집 _ 최불암의 이야기 숲 어울림 MBN 20190912 방송\n\n\"영원한 현역 송해\" \n\n전설이여,영원하라\n\n삼가 고인의 명복을 빕니다.\n\n#송해 #송해선생님 #별세 #큰별 #현역 #최불암 #추모 #MBN\n\n☞ MBN Entertainment 구독하기 : https://www.youtube.com/c/MBN_Entertainment"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT55M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "284968",
+                "likeCount": "4037",
+                "favoriteCount": "0",
+                "commentCount": "139"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0vpISt7-tv3vS6qW1nN-vpXqJuA",
+            "id": "CJylxHWgu8s",
+            "snippet": {
+                "publishedAt": "2022-06-09T13:30:02Z",
+                "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+                "title": "[#유퀴즈온더블럭] 레전드 개그 듀오 다비치 유퀴즈 등판⭐ 강민경이 직접 말하는 이해리 결혼 심정과 20년을 함께한 이들의 따뜻한 우정 비하인드✨ | #지금꼭볼동영상",
+                "description": "#유퀴즈온더블럭 #Diggle #디글\ntvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #지꼭동\n\nLet's giggle, :Diggle!\n방송국놈들이 덕질하는 채널 '디글'\n구독하기 ☞ https://www.youtube.com/c/디글Diggle",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CJylxHWgu8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CJylxHWgu8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CJylxHWgu8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "디글 :Diggle",
+                "tags": [
+                    "Diggle",
+                    "Diggle 유퀴즈",
+                    "Diggle 유퀴즈온더블럭",
+                    "TVING",
+                    "diggle",
+                    "tvN",
+                    "tvN예능",
+                    "tving",
+                    "tvn",
+                    "강민경",
+                    "걍밍경",
+                    "다비치",
+                    "다비치 노래",
+                    "다비치 라이브",
+                    "다비치 무대",
+                    "다비치 팡파레",
+                    "디글",
+                    "디글 유퀴즈온더블럭",
+                    "시즌 노트",
+                    "유재석",
+                    "유퀴즈",
+                    "유퀴즈 다시보기",
+                    "유퀴즈 레전드",
+                    "유퀴즈 명장면",
+                    "유퀴즈 유재석",
+                    "유퀴즈 조세호",
+                    "유퀴즈온더블럭",
+                    "유퀴즈온더블럭 156화 다시보기",
+                    "유퀴즈온더블럭 다시보기",
+                    "유퀴즈온더블럭 레전드",
+                    "유퀴즈온더블럭 명장면",
+                    "이해리",
+                    "이해리 결혼",
+                    "조세호",
+                    "지금꼭볼동영상",
+                    "지금꼭볼동영상 유퀴즈",
+                    "지금꼭볼동영상 유퀴즈온더블럭",
+                    "지꼭동",
+                    "지꼭동 유퀴즈",
+                    "지꼭동 유퀴즈온더블럭",
+                    "티비엔",
+                    "티빙",
+                    "티빙에서스트리밍",
+                    "팡파레"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[#유퀴즈온더블럭] 레전드 개그 듀오 다비치 유퀴즈 등판⭐ 강민경이 직접 말하는 이해리 결혼 심정과 20년을 함께한 이들의 따뜻한 우정 비하인드✨ | #지금꼭볼동영상",
+                    "description": "#유퀴즈온더블럭 #Diggle #디글\ntvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #지꼭동\n\nLet's giggle, :Diggle!\n방송국놈들이 덕질하는 채널 '디글'\n구독하기 ☞ https://www.youtube.com/c/디글Diggle"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT19M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "558480",
+                "likeCount": "8432",
+                "favoriteCount": "0",
+                "commentCount": "361"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FrmtWlK9DnhXUIpWeAz_12y6h40",
+            "id": "Vmt-jGS5-cE",
+            "snippet": {
+                "publishedAt": "2022-06-08T03:00:16Z",
+                "channelId": "UCy-swBYpRZx7KW11FStjTgw",
+                "title": "아들 다섯은 너무 힘들어... 임창정 육부자의 놀이공원 나들이!🎢 [동상이몽|220606 SBS방송]",
+                "description": "체력 방전....📴🔋\n\n#동상이몽 #You_are_My_Destiny #임창정 #서하얀\n☞ 매주 월요일 오후 10:30",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vmt-jGS5-cE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vmt-jGS5-cE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vmt-jGS5-cE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "레알예능 스브스",
+                "tags": [
+                    "MyLittleOldBoy",
+                    "YouareMyDestiny",
+                    "yt:cc=on",
+                    "놀이공원 나들이",
+                    "놀이공원 아들",
+                    "동상이몽",
+                    "동상이몽 다시보기",
+                    "동상이몽 서하얀",
+                    "동상이몽 임창정",
+                    "동상이몽 임창정 서하얀",
+                    "동상이몽 임창정 아들",
+                    "레알예능 스브스 임창정",
+                    "미우새",
+                    "미운우리새끼",
+                    "서울랜드",
+                    "서하얀",
+                    "신발벗고 돌싱포맨",
+                    "임창정",
+                    "임창정 노래",
+                    "임창정 서하얀",
+                    "임창정 소속사",
+                    "임창정 아내",
+                    "임창정 아들",
+                    "임창정 아들 노래"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "아들 다섯은 너무 힘들어... 임창정 육부자의 놀이공원 나들이!🎢 [동상이몽|220606 SBS방송]",
+                    "description": "체력 방전....📴🔋\n\n#동상이몽 #You_are_My_Destiny #임창정 #서하얀\n☞ 매주 월요일 오후 10:30"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT24M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "755040",
+                "likeCount": "6399",
+                "favoriteCount": "0",
+                "commentCount": "327"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pU3adDhEov05Pcf-2kureCGeSmM",
+            "id": "jaNaWklhUHQ",
+            "snippet": {
+                "publishedAt": "2022-06-06T15:00:31Z",
+                "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+                "title": "칠레 전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 칠레 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
+                "description": "🇰🇷 대한민국 2 - 0 칠레 🇨🇱\n\n2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? \n지금 쿠팡플레이에서 확인하기!\n🚩https://coupangplay.app.link/0m52ZHyIDqb\n\n인기 드라마, 예능, 스포츠 중계까지\n쿠팡플레이에서 지금 플레이하세요\n\n#칠레 #국가대표평가전 #쿠팡플레이 #쿠팡",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jaNaWklhUHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jaNaWklhUHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jaNaWklhUHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jaNaWklhUHQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jaNaWklhUHQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "쿠팡플레이 Coupang Play",
+                "tags": [
+                    "축구",
+                    "하이라이트",
+                    "쿠팡플레이",
+                    "칠레전",
+                    "칠레",
+                    "대한민국",
+                    "국가대표",
+                    "평가전",
+                    "손흥민",
+                    "정우영",
+                    "황희찬",
+                    "골 장면"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "칠레 전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 칠레 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
+                    "description": "🇰🇷 대한민국 2 - 0 칠레 🇨🇱\n\n2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? \n지금 쿠팡플레이에서 확인하기!\n🚩https://coupangplay.app.link/0m52ZHyIDqb\n\n인기 드라마, 예능, 스포츠 중계까지\n쿠팡플레이에서 지금 플레이하세요\n\n#칠레 #국가대표평가전 #쿠팡플레이 #쿠팡"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2313309",
+                "likeCount": "20678",
+                "favoriteCount": "0",
+                "commentCount": "3927"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VrZoYCqcJr5LvMXbaMJTb2iTx4w",
+            "id": "OXHCt8Ym9gw",
+            "snippet": {
+                "publishedAt": "2022-06-07T15:00:01Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official Teaser",
+                "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official Teaser\n\nCredits:  \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veronica Zin \n1st AD: Jesse Hays\n2nd AD: Mallory Chevalier \nLocation Manager: Laura Dominguez \nLocation Assistant: Ana Reyes\nSite Rep: John Miller\n\n1st AC: Victor Chon\n2nd AC: Massy Valenzuela-Castaneda \nDrone: Alex Castillo \nDIT: Jack Damon \nTechnocrane: Maurico Rodriguez, Harrison Reilly, Erik Covarrubias\nVTR / Playback: Avery Stone Fish\nVTR Assistant: Jeffery Petro\nPlayback: Kai Morrison \n\nGaffer: Kyle Bryson\nBest Boy Electric: Mark Mann \nElectric: Anthony Ortiz, Gerardo “Junior” Lara, Andrew Lopez \n\nKey Grip: Wadsworth Peters\nBest Boy Grip: Blake Danchik \nGrip: Richard Estrella, James Brazil \n\nProduction Designer: Olivia McManus \nArt Director: Hensel Martinez \nArt Coordinator: Sara Barrett \nProp Mater / Shopper: Amanda Hume\nLeadman: Logan Blue\nSet Dresser: Kyle Kaminsky\nDresser / Driver: Kris Ingram\nGreens: Brooke Benko, Nina Gonzales\nSchool Bus Transportation: Marlon Sosa\n\nGang Boss: Rob Newcombe\nMoho Drivers: Stephen Hinze, Kevin Kasner, Rich Seitz, James “Bubba” Bottoni\nStunt Coordinator: Nhan Vo\nCraft Services: Danny Tilbury, Vic Godales\nSet Medic: Dan DeBaun\nCCM: Matt Moss\nCCA: Niko Galvez, Kasee Shambora\nLocal Artist Security: Samuel Ford, Sully Crew, Raul Estevane, Pete Mulryan\n\nPA: Adam Rosenberg, Joe Vizzini, Jason Vizzini, AJ, EJ Smith, Allen Amehi, Isiah Quince, Chris Fambro, Naushay Turner, Dariana Fly Buchatska, Cathy Kim, Ashley Lee, Bianca Yi, So Yun Um, Iris Jang, Sunny Park, Austin Barrett, Hollis Dohr, Jacqueline Nytes, Anna Tancredi, Sierra Badua, Dani Calderon \n\nDI: LUCID COLOUR\nCOLORIST: Wonseok Ko\nDI CREW: Jaeyeon Baek, Dain Kim, Serae Hong\nDI PRODUCER: Sooyun Hyun\n\nSpecial thanks to San Bernardino County Film Office\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #YetToCome #BTS_Proof #TheMostBeautifulMoment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OXHCt8Ym9gw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OXHCt8Ym9gw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OXHCt8Ym9gw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OXHCt8Ym9gw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OXHCt8Ym9gw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE",
+                    "HYBE LABELS",
+                    "하이브",
+                    "하이브레이블즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official Teaser",
+                    "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official Teaser\n\nCredits:  \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veronica Zin \n1st AD: Jesse Hays\n2nd AD: Mallory Chevalier \nLocation Manager: Laura Dominguez \nLocation Assistant: Ana Reyes\nSite Rep: John Miller\n\n1st AC: Victor Chon\n2nd AC: Massy Valenzuela-Castaneda \nDrone: Alex Castillo \nDIT: Jack Damon \nTechnocrane: Maurico Rodriguez, Harrison Reilly, Erik Covarrubias\nVTR / Playback: Avery Stone Fish\nVTR Assistant: Jeffery Petro\nPlayback: Kai Morrison \n\nGaffer: Kyle Bryson\nBest Boy Electric: Mark Mann \nElectric: Anthony Ortiz, Gerardo “Junior” Lara, Andrew Lopez \n\nKey Grip: Wadsworth Peters\nBest Boy Grip: Blake Danchik \nGrip: Richard Estrella, James Brazil \n\nProduction Designer: Olivia McManus \nArt Director: Hensel Martinez \nArt Coordinator: Sara Barrett \nProp Mater / Shopper: Amanda Hume\nLeadman: Logan Blue\nSet Dresser: Kyle Kaminsky\nDresser / Driver: Kris Ingram\nGreens: Brooke Benko, Nina Gonzales\nSchool Bus Transportation: Marlon Sosa\n\nGang Boss: Rob Newcombe\nMoho Drivers: Stephen Hinze, Kevin Kasner, Rich Seitz, James “Bubba” Bottoni\nStunt Coordinator: Nhan Vo\nCraft Services: Danny Tilbury, Vic Godales\nSet Medic: Dan DeBaun\nCCM: Matt Moss\nCCA: Niko Galvez, Kasee Shambora\nLocal Artist Security: Samuel Ford, Sully Crew, Raul Estevane, Pete Mulryan\n\nPA: Adam Rosenberg, Joe Vizzini, Jason Vizzini, AJ, EJ Smith, Allen Amehi, Isiah Quince, Chris Fambro, Naushay Turner, Dariana Fly Buchatska, Cathy Kim, Ashley Lee, Bianca Yi, So Yun Um, Iris Jang, Sunny Park, Austin Barrett, Hollis Dohr, Jacqueline Nytes, Anna Tancredi, Sierra Badua, Dani Calderon \n\nDI: LUCID COLOUR\nCOLORIST: Wonseok Ko\nDI CREW: Jaeyeon Baek, Dain Kim, Serae Hong\nDI PRODUCER: Sooyun Hyun\n\nSpecial thanks to San Bernardino County Film Office\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #YetToCome #BTS_Proof #TheMostBeautifulMoment"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17901606",
+                "likeCount": "3345399",
+                "favoriteCount": "0",
+                "commentCount": "315900"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zIBjGVjc8IID78BKiWsgOywb-7s",
+            "id": "x93bn7dGN3w",
+            "snippet": {
+                "publishedAt": "2022-06-07T09:00:33Z",
+                "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+                "title": "[아이유의 팔레트] 6월에는 행복해지자꾸나! (With 브로커) Ep.13",
+                "description": "[IU's Palette] Let's be happy in June! (With Broker) Ep.13\n[아이유의 팔레트] 6월에는 행복해지자꾸나! (With 브로커) Ep.13\n\n#아이유 #팔레트 #브로커",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x93bn7dGN3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x93bn7dGN3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x93bn7dGN3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "이지금 [IU Official]",
+                "tags": [
+                    "IU",
+                    "아이유",
+                    "이담",
+                    "EDAM",
+                    "이지금",
+                    "dlwlrma",
+                    "아이유tv",
+                    "아티비",
+                    "아이유티비",
+                    "아이유의팔레트",
+                    "팔레트",
+                    "집콕시그널",
+                    "집콕",
+                    "삐삐",
+                    "Palette",
+                    "비밀의화원",
+                    "블루밍",
+                    "스물셋",
+                    "밤편지",
+                    "러브포엠",
+                    "Love Poem",
+                    "Through The Nigh",
+                    "BBIBBI",
+                    "Blueming",
+                    "unlucky",
+                    "이지은",
+                    "나의아저씨",
+                    "호텔델루나",
+                    "장만월",
+                    "라일락",
+                    "어푸",
+                    "셀러브리티",
+                    "브로커",
+                    "broker",
+                    "강동원",
+                    "배두나",
+                    "이주영",
+                    "임승수",
+                    "송강호",
+                    "고레에다",
+                    "고레에다 히로카즈",
+                    "これえだひろかず",
+                    "是枝裕和",
+                    "Kore-eda"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[아이유의 팔레트] 6월에는 행복해지자꾸나! (With 브로커) Ep.13",
+                    "description": "[IU's Palette] Let's be happy in June! (With Broker) Ep.13\n[아이유의 팔레트] 6월에는 행복해지자꾸나! (With 브로커) Ep.13\n\n#아이유 #팔레트 #브로커"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT46M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1214225",
+                "likeCount": "57853",
+                "favoriteCount": "0",
+                "commentCount": "4434"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xVI1B_li9YTffLdV2n3qDe67d_o",
+            "id": "akuvXBGfpxo",
+            "snippet": {
+                "publishedAt": "2022-06-09T04:00:01Z",
+                "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+                "title": "[릴레이댄스] SEVENTEEN(세븐틴) - HOT (4K)",
+                "description": "[릴레이댄스] 세븐틴 - 핫\n[Relay Dance] SEVENTEEN - HOT\n\n보기만 해도 HOT HOT한 세봉이들 릴댄 도착🔥\n신기방기 뿡뿡방기한 역대급 에너지로 꽉 찼셉!\n(2:40) 💎상캐럿특: 이 순간 흥분하지 않는다💎\n\n#릴레이댄스 #RelayDance\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/akuvXBGfpxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/akuvXBGfpxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/akuvXBGfpxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/akuvXBGfpxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/akuvXBGfpxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "M2",
+                "tags": [
+                    "엠넷",
+                    "Mnet",
+                    "엠투",
+                    "M2",
+                    "MPD",
+                    "엠피디",
+                    "Kpop",
+                    "K-Pop",
+                    "K팝",
+                    "아이돌",
+                    "한국",
+                    "라이브",
+                    "Live",
+                    "Dance",
+                    "댄스",
+                    "안무",
+                    "엠카",
+                    "fancam",
+                    "mnet",
+                    "SEVENTEEN",
+                    "seventeen",
+                    "세븐틴",
+                    "에스쿱스",
+                    "정한",
+                    "조슈아",
+                    "준",
+                    "호시",
+                    "원우",
+                    "우지",
+                    "디에잇",
+                    "민규",
+                    "도겸",
+                    "승관",
+                    "버논",
+                    "디노",
+                    "세븐틴 달링",
+                    "seventeen darling",
+                    "darling",
+                    "seventeen fancam",
+                    "세븐틴 직캠",
+                    "scoups",
+                    "jeonghan",
+                    "joshua",
+                    "jun",
+                    "hoshi",
+                    "wonwoo",
+                    "woozi",
+                    "the8",
+                    "mingyu",
+                    "dk",
+                    "seungkwan",
+                    "vernon",
+                    "dino",
+                    "세븐틴 릴레이댄스",
+                    "릴레이댄스 세븐틴",
+                    "relay dance seventeen",
+                    "seventeen relay dance",
+                    "세븐틴 릴댄",
+                    "릴댄",
+                    "m2 relay dance",
+                    "relay dance"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[릴레이댄스] SEVENTEEN(세븐틴) - HOT (4K)",
+                    "description": "[릴레이댄스] 세븐틴 - 핫\n[Relay Dance] SEVENTEEN - HOT\n\n보기만 해도 HOT HOT한 세봉이들 릴댄 도착🔥\n신기방기 뿡뿡방기한 역대급 에너지로 꽉 찼셉!\n(2:40) 💎상캐럿특: 이 순간 흥분하지 않는다💎\n\n#릴레이댄스 #RelayDance\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1084983",
+                "likeCount": "151218",
+                "favoriteCount": "0",
+                "commentCount": "4563"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LQqLzBvvcZgpKtrT6FGJr0-EvNk",
+            "id": "iibjfV7_n20",
+            "snippet": {
+                "publishedAt": "2022-06-07T10:00:13Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "신용재(Shin Yong Jae)의 킬링보이스를 라이브로! - 사계, 못해, 첫 줄, 가수가 된 이유, 빌려줄게, 후회한다, 똑똑똑, 별이온다, 눈 떠보니 이별이더라 | 딩고뮤직",
+                "description": "신용재를 따라하기 어려운 열 한 가지 이유.\n\n[선곡리스트]\n00:00 오프닝\n00:48 Baby baby\n02:15 똑똑똑\n04:13 못해\n06:00 후회한다\n09:29 가수가 된 이유\n12:10 빌려줄게\n13:44 눈 떠보니 이별이더라\n15:39 별이 온다\n16:41 첫 줄\n18:45 2020년 11월 어느 가을밤\n20:34 사계\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#신용재 #ShinYongJae  #KillingVoice  #킬링보이스 #딩고뮤직 #DingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iibjfV7_n20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iibjfV7_n20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iibjfV7_n20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "딩고 뮤직 / dingo music",
+                "tags": [
+                    "딩고뮤직",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "세로라이브",
+                    "라이브",
+                    "신용재",
+                    "첫줄",
+                    "사계",
+                    "Shinyongjae"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "신용재(Shin Yong Jae)의 킬링보이스를 라이브로! - 사계, 못해, 첫 줄, 가수가 된 이유, 빌려줄게, 후회한다, 똑똑똑, 별이온다, 눈 떠보니 이별이더라 | 딩고뮤직",
+                    "description": "신용재를 따라하기 어려운 열 한 가지 이유.\n\n[선곡리스트]\n00:00 오프닝\n00:48 Baby baby\n02:15 똑똑똑\n04:13 못해\n06:00 후회한다\n09:29 가수가 된 이유\n12:10 빌려줄게\n13:44 눈 떠보니 이별이더라\n15:39 별이 온다\n16:41 첫 줄\n18:45 2020년 11월 어느 가을밤\n20:34 사계\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#신용재 #ShinYongJae  #KillingVoice  #킬링보이스 #딩고뮤직 #DingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "822061",
+                "likeCount": "20858",
+                "favoriteCount": "0",
+                "commentCount": "2538"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8FdT6cFAG4MhDFTpRa-7FAqlYrE",
+            "id": "4ySpi6V6sDs",
+            "snippet": {
+                "publishedAt": "2022-06-09T03:07:19Z",
+                "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+                "title": "[AFC U-23 아시안컵] 대한민국 VS 태국 H/L l 2022 AFC U-23 ASIAN CUP 조별리그",
+                "description": "[AFC U-23 아시안컵] 조별리그 대한민국 VS 태국",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ySpi6V6sDs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ySpi6V6sDs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ySpi6V6sDs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tvN SPORTS",
+                "tags": [
+                    "2022 U-23 아시안컵",
+                    "AFC",
+                    "ASIAN CUP",
+                    "tvn",
+                    "tvn sports",
+                    "xtvn",
+                    "대한민국",
+                    "말레이시아",
+                    "베트남",
+                    "사우디아라비아",
+                    "스포츠",
+                    "스포츠 생중계",
+                    "엄원상",
+                    "엄지성",
+                    "오세훈",
+                    "우즈베키스탄",
+                    "이강인",
+                    "일본",
+                    "조영욱",
+                    "축구",
+                    "축구하이라이트",
+                    "태국",
+                    "황선홍"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[AFC U-23 아시안컵] 대한민국 VS 태국 H/L l 2022 AFC U-23 ASIAN CUP 조별리그",
+                    "description": "[AFC U-23 아시안컵] 조별리그 대한민국 VS 태국"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "allowed": [
+                        "KR"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "429983",
+                "likeCount": "4428",
+                "favoriteCount": "0",
+                "commentCount": "1742"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dSC7dogmhkzwfNsLzpIog7T25m4",
+            "id": "ebz82K9acuw",
+            "snippet": {
+                "publishedAt": "2022-06-08T11:15:17Z",
+                "channelId": "UCXx2Pi_w-4_-U95ksqOY7Cw",
+                "title": "[LIFE PICK] '영원한 국민MC' 송해 사랑하는 어머니와 아들 곁으로... 살아생전 딱 한 번 다시 만났던 어머니 이야기  |  KBS 120622 방송",
+                "description": "[LIFE PICK] '영원한 국민MC' 송해 사랑하는 어머니와 아들 곁으로... 살아생전 딱 한 번 다시 만났던 어머니 이야기  |  KBS 120622 방송\n\n#송해 #국민MC #전국노래자랑",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ebz82K9acuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ebz82K9acuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ebz82K9acuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS LIFE",
+                "tags": [
+                    "KBS",
+                    "KBS1",
+                    "KBS2",
+                    "시사",
+                    "교양",
+                    "한국방송",
+                    "LIFE",
+                    "라이프",
+                    "korea",
+                    "송해",
+                    "전국노래자랑",
+                    "송해 별세",
+                    "전국 노래자랑 MC",
+                    "송해 어머니",
+                    "송해 아들",
+                    "송해 가족",
+                    "가족",
+                    "국민MC",
+                    "국민엠씨"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[LIFE PICK] '영원한 국민MC' 송해 사랑하는 어머니와 아들 곁으로... 살아생전 딱 한 번 다시 만났던 어머니 이야기  |  KBS 120622 방송",
+                    "description": "[LIFE PICK] '영원한 국민MC' 송해 사랑하는 어머니와 아들 곁으로... 살아생전 딱 한 번 다시 만났던 어머니 이야기  |  KBS 120622 방송\n\n#송해 #국민MC #전국노래자랑"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "139645",
+                "likeCount": "1865",
+                "favoriteCount": "0",
+                "commentCount": "79"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3TgNQNmK9yMXb9OYVOESEoP6JNU",
+            "id": "Z2MIRj9Vlo8",
+            "snippet": {
+                "publishedAt": "2022-06-08T01:31:07Z",
+                "channelId": "UC920m3pMPH45qztdhppZhwA",
+                "title": "[선공개] 다비치와의 밸런스 게임! 유재석&이해리🆚조세호&강민경 막상막하의 승부ㅋㅋ#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.156",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n유 퀴즈 온 더 블럭\n\n매주 (수) 저녁 8시 40분 tvN\n\n#유퀴즈온더블럭 #유퀴즈 #선공개 #유재석 #조세호 #다비치\n\n#티빙에서스트리밍",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z2MIRj9Vlo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z2MIRj9Vlo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z2MIRj9Vlo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z2MIRj9Vlo8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z2MIRj9Vlo8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "유 퀴즈 온 더 튜브",
+                "tags": [
+                    "강민경",
+                    "다비치",
+                    "선공개",
+                    "유재석",
+                    "유퀴즈",
+                    "유퀴즈온더블럭",
+                    "이해리",
+                    "조세호",
+                    "티빙에서스트리밍"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[선공개] 다비치와의 밸런스 게임! 유재석&이해리🆚조세호&강민경 막상막하의 승부ㅋㅋ#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.156",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n유 퀴즈 온 더 블럭\n\n매주 (수) 저녁 8시 40분 tvN\n\n#유퀴즈온더블럭 #유퀴즈 #선공개 #유재석 #조세호 #다비치\n\n#티빙에서스트리밍"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "863573",
+                "likeCount": "8323",
+                "favoriteCount": "0",
+                "commentCount": "496"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rz8TrzvLqG44bEFAWp1WhYgJg8s",
+            "id": "cGEcL2-HiSE",
+            "snippet": {
+                "publishedAt": "2022-06-09T10:30:39Z",
+                "channelId": "UCKFvoxDM0NoLChK9hCe7VfQ",
+                "title": "일상Vlog | 병원 가기 싫다고 칭얼대는 일상",
+                "description": "인스타그램 bbiru_unni https://instagram.com/bbiru_unni?igshid=fhw10rvrxx69\n동생인스타 o4__27 https://instagram.com/o4__27?xigshid=1tfhik53bo724\n동생쇼핑몰 https://feinmood.com/\n\n💌문의💌ctnqls11@gmail.com\n\n#루게릭환자의#행복한#투병생활",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cGEcL2-HiSE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cGEcL2-HiSE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cGEcL2-HiSE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cGEcL2-HiSE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cGEcL2-HiSE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "삐루빼로",
+                "tags": [
+                    "일상브이로그",
+                    "루게릭병",
+                    "일상브이로그",
+                    "루게릭병",
+                    "일상브이로그",
+                    "루게릭병"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "일상Vlog | 병원 가기 싫다고 칭얼대는 일상",
+                    "description": "인스타그램 bbiru_unni https://instagram.com/bbiru_unni?igshid=fhw10rvrxx69\n동생인스타 o4__27 https://instagram.com/o4__27?xigshid=1tfhik53bo724\n동생쇼핑몰 https://feinmood.com/\n\n💌문의💌ctnqls11@gmail.com\n\n#루게릭환자의#행복한#투병생활"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT6M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "423289",
+                "likeCount": "13200",
+                "favoriteCount": "0",
+                "commentCount": "758"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mRE4SlQ6OHC1822B5N-qVyUmgXc",
+            "id": "rNZFL1QO2Gs",
+            "snippet": {
+                "publishedAt": "2022-06-08T08:00:14Z",
+                "channelId": "UCeS6R89S32mSOxTNoEqrN7g",
+                "title": "텃세 부리는 놀이공원 선배한테 참교육 당해보기 | 신입 롤플레잉 RP (RolePlay)",
+                "description": "특기는 무안주기 취미는 위아래 훑어보기\n-\n\nInstagram📷 https://www.instagram.com/beauty_fo.ol/\nTikTok🎵 tiktok.com/@beauty.fo_ol",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rNZFL1QO2Gs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rNZFL1QO2Gs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rNZFL1QO2Gs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rNZFL1QO2Gs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rNZFL1QO2Gs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "사내뷰공업 beautyfool",
+                "tags": [
+                    "틱톡",
+                    "릴스",
+                    "쇼츠",
+                    "상황극",
+                    "공감",
+                    "일상",
+                    "콩트",
+                    "유머",
+                    "사내뷰공업",
+                    "아리",
+                    "ari",
+                    "beautyfool",
+                    "tiktok",
+                    "reels",
+                    "shorts",
+                    "sitcom",
+                    "korean",
+                    "놀이공원",
+                    "놀이공원알바",
+                    "에버랜드",
+                    "롯데월드",
+                    "알바",
+                    "알바생",
+                    "아르바이트",
+                    "알바몬",
+                    "텃세",
+                    "꼰대",
+                    "mz",
+                    "쩖은꼰대",
+                    "에버랜드알바",
+                    "롯데월드알바",
+                    "어트랙션"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "텃세 부리는 놀이공원 선배한테 참교육 당해보기 | 신입 롤플레잉 RP (RolePlay)",
+                    "description": "특기는 무안주기 취미는 위아래 훑어보기\n-\n\nInstagram📷 https://www.instagram.com/beauty_fo.ol/\nTikTok🎵 tiktok.com/@beauty.fo_ol"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "863376",
+                "likeCount": "15618",
+                "favoriteCount": "0",
+                "commentCount": "2129"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dNPdN6rgpwyTLCKF7InTMkR_QkY",
+            "id": "XkhgkHs5stk",
+            "snippet": {
+                "publishedAt": "2022-06-07T13:40:51Z",
+                "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+                "title": "[하이라이트] 주체할 수 없는 처가댁 하이 텐션에↗ 기 빨리는 '계획형 사위' 김태현😂 〈딸도둑들(wifesfather)〉 | JTBC 220607 방송",
+                "description": "[하이라이트] 주체할 수 없는 처가댁 하이 텐션에↗ 기 빨리는 '계획형 사위' 김태현\n#딸도둑들 #김태현 #미자",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XkhgkHs5stk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XkhgkHs5stk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XkhgkHs5stk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XkhgkHs5stk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XkhgkHs5stk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Entertainment",
+                "tags": [
+                    "딸도둑들",
+                    "강호동",
+                    "홍진경",
+                    "이수근",
+                    "장동민",
+                    "류진",
+                    "조현우",
+                    "장광",
+                    "전성애",
+                    "김태현",
+                    "미자",
+                    "결혼식",
+                    "결혼",
+                    "부부",
+                    "김태현미자신혼집",
+                    "한강뷰",
+                    "계획형",
+                    "MBTI",
+                    "최초공개",
+                    "신혼부부",
+                    "신혼집",
+                    "집들이",
+                    "가족사진",
+                    "장광가족사진",
+                    "김태현미자",
+                    "김태현미자결혼",
+                    "내무반검열",
+                    "계획",
+                    "청소",
+                    "트렌디",
+                    "인테리어",
+                    "취향",
+                    "특이한취향",
+                    "사위",
+                    "장인",
+                    "장인어른",
+                    "브로맨스",
+                    "JTBC예능",
+                    "JTBC화요예능",
+                    "딸도둑들하이라이트"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[하이라이트] 주체할 수 없는 처가댁 하이 텐션에↗ 기 빨리는 '계획형 사위' 김태현😂 〈딸도둑들(wifesfather)〉 | JTBC 220607 방송",
+                    "description": "[하이라이트] 주체할 수 없는 처가댁 하이 텐션에↗ 기 빨리는 '계획형 사위' 김태현\n#딸도둑들 #김태현 #미자"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "487657",
+                "likeCount": "3369",
+                "favoriteCount": "0",
+                "commentCount": "195"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qd90AqHFyuNWOnNyuf6n3i41LJw",
+            "id": "P7QtLjBjbXs",
+            "snippet": {
+                "publishedAt": "2022-06-09T08:36:28Z",
+                "channelId": "UC2E-9AQ-kwOFlvvXLfY6V8Q",
+                "title": "이쓰니 또 그릇 사러간대서 따라갔습니다",
+                "description": "세상엔 귀엽고 신기방기한 아이템들 짱 많아!!!!!!\n귀여운게 짱이야!!!!!!!!!!!!!!!!\n\n\n#그릇쇼핑 #한남동데이트",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P7QtLjBjbXs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P7QtLjBjbXs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P7QtLjBjbXs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "홍현희 제이쓴의 홍쓴TV",
+                "tags": [
+                    "한남동 데이트",
+                    "서울가볼만한곳",
+                    "이태원 소품샵",
+                    "그릇쇼핑",
+                    "신혼 그릇",
+                    "한남동 소품샵",
+                    "그릇 쇼핑",
+                    "그릇언박싱"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "이쓰니 또 그릇 사러간대서 따라갔습니다",
+                    "description": "세상엔 귀엽고 신기방기한 아이템들 짱 많아!!!!!!\n귀여운게 짱이야!!!!!!!!!!!!!!!!\n\n\n#그릇쇼핑 #한남동데이트"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT7M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "210768",
+                "likeCount": "5801",
+                "favoriteCount": "0",
+                "commentCount": "179"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EJ3qu7sM1tYL2zqYuKiEiJ1hBKE",
+            "id": "53MJ0gze0CM",
+            "snippet": {
+                "publishedAt": "2022-06-08T09:31:01Z",
+                "channelId": "UCk6bX-MZXdte_7kG8TbMkqg",
+                "title": "마침내 서울 한복판에 이사 갈 곳 찾았습니다! 그것도 통건물!!! - 허팝",
+                "description": "흥미진진 해지고 있다!!!! 재밌겠다!!!!!!!\n\n#허팝 #이사 #허팝연구소 #heopop #youtube #koreanyoutuber #유튜버 #서울\n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/53MJ0gze0CM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/53MJ0gze0CM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/53MJ0gze0CM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "허팝Heopop",
+                "tags": [
+                    "허팝",
+                    "heopop",
+                    "gjvkq",
+                    "허팝연구소",
+                    "이사",
+                    "서울",
+                    "아파트",
+                    "주택",
+                    "통건물",
+                    "통임대",
+                    "허둥이",
+                    "지하",
+                    "방음",
+                    "노래",
+                    "녹음실",
+                    "유튜브",
+                    "컨텐츠",
+                    "유튜버",
+                    "영상",
+                    "영상 촬영",
+                    "카메라",
+                    "youtube"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "마침내 서울 한복판에 이사 갈 곳 찾았습니다! 그것도 통건물!!! - 허팝",
+                    "description": "흥미진진 해지고 있다!!!! 재밌겠다!!!!!!!\n\n#허팝 #이사 #허팝연구소 #heopop #youtube #koreanyoutuber #유튜버 #서울\n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "320035",
+                "likeCount": "6242",
+                "favoriteCount": "0",
+                "commentCount": "1017"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0Vr7lKZmo_g-xaGW0b0FGJNgBF4",
+            "id": "VSNmHGk24FE",
+            "snippet": {
+                "publishedAt": "2022-06-08T01:00:11Z",
+                "channelId": "UC6erIDuvbOaAO-OT5rB2Xew",
+                "title": "[#어습티비] 왜 저래 진짜..😤 뻔뻔한 성추행 교수 폭로하는 서현진★ #왜오수재인가 #WhyHer #SBSdrama",
+                "description": "#어습티비 #왜오수재인가 #서현진\n\n어떡해, 스브스 드라마 보다가 티비 속으로 빠져버렸어\n\n몰입하게 되는 ‘뻔뻔한 성추행 교수 폭로하는 서현진’을 공개합니다!\n\nSBS 금토드라마 ‘왜 오수재인가 (WhyHer)’\n☞ 금,토 밤 10시 본방송\n\n▶ Hompage : https://www.sbs.co.kr/tv/drama\n▶ Subscribe SBS Drama : https://bit.ly/2ShWout",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VSNmHGk24FE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VSNmHGk24FE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VSNmHGk24FE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS Drama",
+                "tags": [
+                    "sbs드라마",
+                    "금토드라마",
+                    "왜오수재인가",
+                    "왜오수재인가하이라이트",
+                    "왜오수재인가다시보기",
+                    "드라마다시보기",
+                    "서현진",
+                    "배인혁",
+                    "황인엽",
+                    "어습티비",
+                    "어쩔티비",
+                    "20220608",
+                    "오수재"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[#어습티비] 왜 저래 진짜..😤 뻔뻔한 성추행 교수 폭로하는 서현진★ #왜오수재인가 #WhyHer #SBSdrama",
+                    "description": "#어습티비 #왜오수재인가 #서현진\n\n어떡해, 스브스 드라마 보다가 티비 속으로 빠져버렸어\n\n몰입하게 되는 ‘뻔뻔한 성추행 교수 폭로하는 서현진’을 공개합니다!\n\nSBS 금토드라마 ‘왜 오수재인가 (WhyHer)’\n☞ 금,토 밤 10시 본방송\n\n▶ Hompage : https://www.sbs.co.kr/tv/drama\n▶ Subscribe SBS Drama : https://bit.ly/2ShWout"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "AU",
+                        "ID",
+                        "MY",
+                        "NZ",
+                        "PH",
+                        "SG",
+                        "TH",
+                        "VN"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "309686",
+                "likeCount": "2186",
+                "favoriteCount": "0",
+                "commentCount": "187"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0zrP8iAIlQH9RwNwAnti0pSHuXU",
+            "id": "SOjI2Tg8yfA",
+            "snippet": {
+                "publishedAt": "2022-06-08T13:00:11Z",
+                "channelId": "UCdrBnBNLsN4_cH32HWbr9qg",
+                "title": "I'm not a monster 3 - Poppy Playtime Animation (Blame)",
+                "description": "We make animations with your music ♫\nPlease send me a music file or link by email. 😁\n\nEmail : GHS.CONTACTME@gmail.com\n\n🟣GH'STUDIO : GH'S, PP, FULLBBANG 🟣\n🟣Assistance : JNEUK 🟣\n\n🟢Sound Track 🟢\n✔ BB Cooper - Blame\nhttps://youtu.be/mqHlJcvVZ6s\n\n--------------------------------------------------\n* Please refrain from re-uploading the video after leaving credit for the video.\n* 영상 출처를 남기고 동영상을 재 업로드하는 행위는 자제해주세요.\n\n* Please don't upload it again. Secondary edited videos are also not allowed.\n* 재업로드 하지 말아주세요. 2차 가공도 허가하지 않습니다.\n\n[You can't re-upload it in any way, and we won't accept any further inquiries]\n[어떤 방식으로든 재가공 혹은 재업로드를 금지하며 이에 대해선 더 이상 문의 받지 않습니다.]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SOjI2Tg8yfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SOjI2Tg8yfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SOjI2Tg8yfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SOjI2Tg8yfA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SOjI2Tg8yfA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GH'S",
+                "tags": [
+                    "poppy playtime",
+                    "poppy playtime animation",
+                    "huggy wuggy",
+                    "kissy missy",
+                    "wanna live",
+                    "파피플레이타임",
+                    "허기워기",
+                    "mommy long legs",
+                    "마미롱레그"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I'm not a monster 3 - Poppy Playtime Animation (Blame)",
+                    "description": "We make animations with your music ♫\nPlease send me a music file or link by email. 😁\n\nEmail : GHS.CONTACTME@gmail.com\n\n🟣GH'STUDIO : GH'S, PP, FULLBBANG 🟣\n🟣Assistance : JNEUK 🟣\n\n🟢Sound Track 🟢\n✔ BB Cooper - Blame\nhttps://youtu.be/mqHlJcvVZ6s\n\n--------------------------------------------------\n* Please refrain from re-uploading the video after leaving credit for the video.\n* 영상 출처를 남기고 동영상을 재 업로드하는 행위는 자제해주세요.\n\n* Please don't upload it again. Secondary edited videos are also not allowed.\n* 재업로드 하지 말아주세요. 2차 가공도 허가하지 않습니다.\n\n[You can't re-upload it in any way, and we won't accept any further inquiries]\n[어떤 방식으로든 재가공 혹은 재업로드를 금지하며 이에 대해선 더 이상 문의 받지 않습니다.]"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3033773",
+                "likeCount": "101541",
+                "favoriteCount": "0",
+                "commentCount": "2701"
+            }
+        }
+    ],
+    "nextPageToken": "CBQQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 20
+    }
+}

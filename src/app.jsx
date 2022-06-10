@@ -1,7 +1,12 @@
 import './app.css';
+import VideoList from './components/video_list/video_list.jsx';
 
 function App() {
-  return  <h1>Hello :)</h1>;
+  return ( 
+  <>
+  <VideoList/>
+  </>
+  )
 }
 
 export default App;
