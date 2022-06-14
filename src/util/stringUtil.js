@@ -1,3 +1,4 @@
+import ReactHtmlParser from 'react-html-parser';
 export const unescapeString = (str) => {
-    return decodeURIComponent(str);
+    return ReactHtmlParser(str);
 }
