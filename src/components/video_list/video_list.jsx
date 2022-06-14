@@ -13,30 +13,35 @@ const VideoList = (props) => {
     };
     const keyword = props.keyword;
     if (!keyword || keyword.length === 0) {
-        console.log("fetch no keyword")
-        fetch(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=KR&key=${API_KEY}&maxResults=25&Authorization`, requestOptions)
-        .then(response => response.json())
-        .then(result => setVideos(result.items))
-        .catch(error => console.log('error', error));
-    } else {
-        console.log("fetch with keyword")
+      console.log("fetch no keyword");
       fetch(
-        `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=${API_KEY}`,
+        `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=KR&key=${API_KEY}&maxResults=25&Authorization`,
         requestOptions
       )
         .then((response) => response.json())
-        .then((result) => {
-          setVideos(result.items);
+        .then((result) => setVideos(result.items))
+        .catch((error) => console.log("error", error));
+    } else {
+      console.log("fetch with keyword");
+      fetch(
+        `https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=25&q=${keyword}&key=${API_KEY}`,
+        requestOptions
+      )
+        .then((response) => response.json())
+        .then((result) => result.items.map(item => ({ ...item, id: item.id.videoId })))
+        .then((items) => {
+          setVideos(items);
         })
         .catch((error) => console.log("error", error));
     }
+
   }, [props.keyword]);
 
   return (
     <div className={styles.videoList}>
       {videos.map((video) => (
         <VideoItem
-          key={typeof (video.id) == "string" ? video.id : video.id.videoId}
+          key={video.id}
           video={video}
         />
       ))}
