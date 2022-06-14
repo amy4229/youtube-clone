@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import styles from "./searchHeader.module.css";
 
-const searchHeader = (props) => {
+const SearchHeader = (props) => {
     const ref = useRef();
 
     const onSearchClick =(event) =>{
@@ -9,6 +9,7 @@ const searchHeader = (props) => {
         const keyword = ref.current.value;
         props.setKeyword(keyword);
     }
+
    const onLogoClick = ()=> {
     props.setKeyword('');
    }
@@ -34,4 +35,4 @@ const searchHeader = (props) => {
   );
 };
 
-export default searchHeader;
+export default SearchHeader;
