@@ -1,8 +1,8 @@
-import React, { createRef } from "react";
+import React, { useRef } from "react";
 import styles from "./searchHeader.module.css";
 
 const searchHeader = (props) => {
-    const ref = createRef();
+    const ref = useRef();
 
     const onSearchClick =(event) =>{
         event.preventDefault();
