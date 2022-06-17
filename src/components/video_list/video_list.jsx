@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
 import VideoItem from "../video_item/video_item.jsx";
 //import styles from "./video_list.module.css";
+import ApiUtil from "../../util/apiUtil";
 
-const VideoList = ({ api, keyword, onSelect}) => {
+const VideoList = ({ keyword, onSelect }) => {
   const [videos, setVideos] = useState([]);
-
+  const api = new ApiUtil();
   useEffect(() => {
     console.log(keyword, typeof keyword);
     if (!keyword || keyword.length === 0) {
@@ -24,7 +25,7 @@ const VideoList = ({ api, keyword, onSelect}) => {
   return (
     <>
       {videos.map((video) => (
-        <VideoItem key={video.id} video={video} onSelect={onSelect}/>
+        <VideoItem key={video.id} video={video} onSelect={onSelect} />
       ))}
     </>
   );

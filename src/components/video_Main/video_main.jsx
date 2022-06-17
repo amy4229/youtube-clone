@@ -3,7 +3,7 @@ import VideoList from "../video_list/video_list";
 import styles from "../video_Main/video_main.module.css";
 import VideoPlay from '../video_play/video_play';
 
-const VideoMain = ({ api, keyword }) => {
+const VideoMain = ({ keyword }) => {
   const [selectedVideo, setSelectedVideo] = useState(null);
   
   let isSelected = selectedVideo ? styles.selected : "";
@@ -15,7 +15,7 @@ const VideoMain = ({ api, keyword }) => {
         </section>
       )}
       <section className={styles.videoList+" "+ isSelected}>
-        <VideoList keyword={keyword} api={api} onSelect={setSelectedVideo} />
+        <VideoList keyword={keyword} onSelect={setSelectedVideo} />
       </section>
     </main>
   );
