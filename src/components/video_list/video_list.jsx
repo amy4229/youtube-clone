@@ -11,12 +11,17 @@ const VideoList = ({ keyword, onSelect }) => {
     if (!keyword || keyword.length === 0) {
       api
         .getPopularVideoList() //
-        .then((result) => setVideos(result.items));
+        .then((result) => {
+          setVideos(result.items);
+          onSelect(null);
+        });
+       
     } else {
       api
         .getSearchResults(keyword)
         .then((items) => {
           setVideos(items);
+          onSelect(null);
         })
         .catch((error) => console.log("error", error));
     }

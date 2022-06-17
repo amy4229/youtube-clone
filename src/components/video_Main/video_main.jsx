@@ -7,6 +7,7 @@ const VideoMain = ({ keyword }) => {
   const [selectedVideo, setSelectedVideo] = useState(null);
   
   let isSelected = selectedVideo ? styles.selected : "";
+
   return (
     <main className={styles.videoMain}>
       {selectedVideo && (

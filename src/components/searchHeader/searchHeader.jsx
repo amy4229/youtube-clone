@@ -11,6 +11,7 @@ const SearchHeader = (props) => {
     }
 
    const onLogoClick = ()=> {
+    console.log("로고클릭")
     props.setKeyword('');
    }
 
