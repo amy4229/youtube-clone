@@ -1,7 +1,7 @@
-import React, { useRef } from "react";
+import React, { useRef, memo } from "react";
 import styles from "./searchHeader.module.css";
 
-const SearchHeader = ({ onSearch, onInit }) => {
+const SearchHeader = memo(({ onSearch, onInit }) => {
   const ref = useRef();
 
   const onSearchClick = (event) => {
@@ -14,7 +14,6 @@ const SearchHeader = ({ onSearch, onInit }) => {
     ref.current.value = "";
     onInit();
   };
-
   return (
     <header>
       <img
@@ -31,6 +30,6 @@ const SearchHeader = ({ onSearch, onInit }) => {
       </form>
     </header>
   );
-};
+});
 
 export default SearchHeader;

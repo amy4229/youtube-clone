@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { memo } from 'react';
 import { makeFomattedDateStr, unescapeString } from '../../util/stringUtil';
 import styles from '../video_item/video_item.module.css';
 
-const VideoItem = (props) => {
+const VideoItem = memo((props) => {
     const selectedVideo = props.video;
     const {publishedAt,thumbnails, title,channelTitle} = props.video.snippet;
     const publishAt = makeFomattedDateStr(publishedAt);
@@ -19,6 +19,6 @@ const VideoItem = (props) => {
             <div className={styles.channelTitle}>{channelTitle}</div>
         </article>
     );            
-};
+});
 
 export default VideoItem;
