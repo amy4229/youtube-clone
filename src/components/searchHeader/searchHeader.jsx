@@ -1,19 +1,19 @@
 import React, { useRef } from "react";
 import styles from "./searchHeader.module.css";
 
-const SearchHeader = (props) => {
-    const ref = useRef();
+const SearchHeader = ({ onSearch, onInit }) => {
+  const ref = useRef();
 
-    const onSearchClick =(event) =>{
-        event.preventDefault();
-        const keyword = ref.current.value;
-        props.setKeyword(keyword);
-    }
+  const onSearchClick = (event) => {
+    event.preventDefault();
+    const keyword = ref.current.value;
+    onSearch(keyword);
+  };
 
-   const onLogoClick = ()=> {
-    console.log("로고클릭")
-    props.setKeyword('');
-   }
+  const onLogoClick = () => {
+    ref.current.value = "";
+    onInit();
+  };
 
   return (
     <header>
@@ -24,10 +24,7 @@ const SearchHeader = (props) => {
         onClick={onLogoClick}
       />
       <form className={styles.form} onSubmit={onSearchClick}>
-        <input
-          className={styles.searchInput}
-          ref={ref}
-        />
+        <input className={styles.searchInput} ref={ref} />
         <button className={styles.button}>
           <i className="fa-solid fa-magnifying-glass"></i>
         </button>

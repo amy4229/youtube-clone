@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import VideoList from "../video_list/video_list";
 import styles from "../video_Main/video_main.module.css";
 import VideoPlay from '../video_play/video_play';
 
-const VideoMain = ({ keyword }) => {
-  const [selectedVideo, setSelectedVideo] = useState(null);
+const VideoMain = ({ videos,selectedVideo, onSearch,onSelect}) => {
+  
   
   let isSelected = selectedVideo ? styles.selected : "";
 
@@ -16,7 +16,7 @@ const VideoMain = ({ keyword }) => {
         </section>
       )}
       <section className={styles.videoList+" "+ isSelected}>
-        <VideoList keyword={keyword} onSelect={setSelectedVideo} />
+        <VideoList videos={videos} onSelect={onSelect} />
       </section>
     </main>
   );

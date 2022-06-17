@@ -7,7 +7,7 @@ const VideoPlay = ({ selectedVideo }) => {
   const { title, channelTitle, description, publishedAt } =
     selectedVideo.snippet;
   const fomattedPublishedAt = makeFomattedDateStr(publishedAt);
-  window.scrollTo(0,0);
+
   return (
     <>
       <iframe
