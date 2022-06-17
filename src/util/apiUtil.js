@@ -11,7 +11,6 @@ class ApiUtil extends Component {
   };
 
   getPopularVideoList = async () => {
-    console.log("fetch no keyword");
     // return sampleData; 출력테스트용 
     return await fetch(
         `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=KR&key=${this.API_KEY}&maxResults=25&Authorization`,
@@ -21,7 +20,6 @@ class ApiUtil extends Component {
   }
 
   getSearchResults = async (keyword) => {
-    console.log("fetch with keyword");
     return fetch(
         `https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=25&q=${keyword}&key=${this.API_KEY}`,
         this.requestOptions

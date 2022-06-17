@@ -7,7 +7,7 @@ const VideoList = ({ keyword, onSelect }) => {
   const [videos, setVideos] = useState([]);
   const api = new ApiUtil();
   useEffect(() => {
-    console.log(keyword, typeof keyword);
+    console.log(keyword);
     if (!keyword || keyword.length === 0) {
       api
         .getPopularVideoList() //
