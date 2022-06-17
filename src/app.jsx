@@ -1,4 +1,4 @@
-import { StrictMode,useState,useEffect} from 'react';
+import { StrictMode,useState,useEffect,useCallback} from 'react';
 import "./app.css";
 import SearchHeader from "./components/searchHeader/searchHeader.jsx";
 import VideoMain from './components/video_Main/video_main';
@@ -13,7 +13,7 @@ function App() {
     onInit();
   },[]);
 
-  const onSearch = (keyword) => {
+  const onSearch = useCallback( (keyword) => {
     api
     .getSearchResults(keyword)
     .then((items) => {
@@ -21,9 +21,9 @@ function App() {
       setSelectedVideo(null);
     })
     .catch((error) => console.log("error", error));
-  }
+  },[]);
 
-  const onInit = () => {
+  const onInit = useCallback(() => {
     api
         .getPopularVideoList() //
         .then((result) => {
@@ -31,7 +31,7 @@ function App() {
           setSelectedVideo(null);
         });
        
-  }
+  },[])
   window.scrollTo(0,0);
   return (
     <StrictMode>
