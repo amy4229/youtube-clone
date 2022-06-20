@@ -5,7 +5,8 @@ import VideoMain from './components/video_Main/video_main';
 import ApiUtil from "./util/apiUtil.js"
 
 function App() {
-  const api = new ApiUtil();
+  const API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
+  const api = new ApiUtil(API_KEY);
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
