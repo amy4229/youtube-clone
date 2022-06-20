@@ -5,35 +5,43 @@ import {
 
 class ApiUtil extends Component {
 
-  constructor(key) {
+  constructor(request) {
     super();
-    this.key = key;
-    this.requestOptions = {
-      method: 'GET',
-      redirect: 'follow'
-    };
+    this.request = request
   }
 
 
   getPopularVideoList = async () => {
     // return sampleData; 출력테스트용 
-    return await fetch(
-        `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=KR&key=${this.key}&maxResults=25&Authorization`,
-        this.requestOptions
-      )
-      .then((response) => response.json());
+    const response = await this.request.get('videos', {
+      params: {
+        'part': 'snippet',
+        'chart': 'mostPopular',
+        'regionCode': "KR",
+        'maxResults': 25,
+      }
+    });
+
+    return response.data.items;
   }
 
   getSearchResults = async (keyword) => {
-    return fetch(
-        `https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=25&q=${keyword}&key=${this.key}`,
-        this.requestOptions
-      )
-      .then((response) => response.json())
-      .then((result) => result.items.map(item => ({
-        ...item,
-        id: item.id.videoId
-      })))
+
+    const response = await this.request.get('search', {
+      params: {
+        'part': 'snippet',
+        'type': 'video',
+        'q': keyword,
+        'maxResults': 25,
+      }
+    });
+
+    const result = response.data.items.map(item => ({
+      ...item,
+      id: item.id.videoId
+    }));
+
+    return result;
   }
 
 }

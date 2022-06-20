@@ -3,10 +3,16 @@ import "./app.css";
 import SearchHeader from "./components/searchHeader/searchHeader.jsx";
 import VideoMain from './components/video_Main/video_main';
 import ApiUtil from "./util/apiUtil.js"
+import axios from 'axios'
 
 function App() {
   const API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
-  const api = new ApiUtil(API_KEY);
+  const request = axios.create({
+    baseURL: 'https://youtube.googleapis.com/youtube/v3/',
+    timeout: 1000,
+    params : {'key' : API_KEY}
+  });
+  const api = new ApiUtil(request);
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
@@ -28,7 +34,7 @@ function App() {
     api
         .getPopularVideoList() //
         .then((result) => {
-          setVideos(result.items);
+          setVideos(result);
           setSelectedVideo(null);
         });
        
